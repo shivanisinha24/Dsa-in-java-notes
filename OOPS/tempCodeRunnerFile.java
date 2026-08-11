@@ -1,0 +1,3 @@
+  // void modulo(){
+  //   value%value;
+  // }
