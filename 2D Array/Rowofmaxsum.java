@@ -8,7 +8,7 @@ public class Rowofmaxsum{
       for(int j =0;j<arr[0].length;j++){
         sum +=arr[i][j];
       }
-      if(sum>maxSum){
+      if(sum > maxSum){
         maxSum = sum;
         row =i;
       }
